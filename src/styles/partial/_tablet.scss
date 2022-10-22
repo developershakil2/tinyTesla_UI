@@ -1,0 +1,258 @@
+@media screen and (max-width:992px) {}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:768px) {
+    .farms_card_head_sub {
+        margin-top: 27px;
+    }
+
+    div#ccc {
+        width: 85%;
+    }
+
+    .nftBox {
+        width: 100%;
+    }
+
+    .HomeSection {
+        height: auto;
+        padding-bottom: 100px;
+    }
+
+    .logoWrapper {
+        h4 {
+            display: none;
+        }
+    }
+
+    #secondSection {
+        .secondSection_title {
+            text-align: center;
+            width: 100%;
+            font-family: "Roboto", sans-serif;
+            font-weight: bold;
+            margin: auto;
+        }
+
+    }
+
+    #home_content_wrap {
+        .home_btn_group {
+            .wl3 {
+                margin-left: 0px;
+            }
+
+            button {
+                width: 100%;
+            }
+        }
+
+        .home_left_wrap {
+            .home_inner_left {
+                width: 100%;
+                text-align: left;
+                margin-top: 150px;
+
+                h1 {
+                    font-size: 26px;
+                }
+            }
+
+        }
+    }
+
+    .thirdSection {
+        .thirdSectLeft h2 {
+            font-family: "Roboto", sans-serif;
+            font-size: 30px;
+            font-weight: bold;
+        }
+
+        .thirdSectRight {
+            .bnb1 {
+                margin-left: 5px;
+                margin-bottom: 46px;
+                animation-name: bnb1;
+                animation-duration: 3s;
+                animation-iteration-count: infinite;
+            }
+        }
+    }
+
+    .thirdSection {
+        .thirdSectRight {
+            .bnb2 {
+                margin-top: 217px;
+                margin-left: -11px;
+                animation-name: bnb2;
+                animation-duration: 5s;
+                animation-iteration-count: infinite;
+            }
+        }
+
+    }
+
+    .thirdSection {
+        .thirdSectRight {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 172px;
+            align-items: center;
+            position: relative;
+            height: 400px;
+        }
+    }
+
+    .fourth_section {
+        margin-top: 70px;
+    }
+
+    .thirdSection {
+        padding: 100px 0px;
+        padding-top: 0px;
+    }
+
+    .fourth_section {
+        .ticketWrap {
+            width: 100%;
+            padding: 40px 0px;
+        }
+    }
+
+    .fourth_section {
+        .ticketWrap {
+            .price_card_wrap {
+                #card1 {
+                    transform: rotate(0deg);
+                    margin-top: 30px;
+                }
+
+                #card2 {
+                    transform: rotate(0deg);
+                    margin-top: 30px;
+                }
+            }
+        }
+    }
+
+    section#tintMakes {
+        padding-bottom: 0px;
+    }
+
+    footer {
+        .footerBox {
+            .footer_img {
+                display: flex;
+                justify-content: start;
+                text-decoration: none;
+            }
+        }
+    }
+
+    ul.menuClass {
+        position: fixed !important;
+        bottom: 0%;
+        height: 43px !important;
+        background: #0c0c0cbd;
+        width: 100%;
+        left: 0%;
+        display: flex;
+        justify-content: space-around !important;
+
+        li {
+            margin-right: 0px !important;
+
+            a {
+                font-weight: bold;
+            }
+        }
+    }
+
+    .navw {
+        display: none;
+    }
+
+    .ssbnb {
+        display: none;
+    }
+
+
+    .mainNav {
+        .menuClass {
+            ul.subUl2 {
+                position: absolute;
+                background: #111;
+                border: 1px solid #fff;
+                width: 300px;
+                top: -131px;
+                padding: 10px 19px;
+            }
+        }
+
+    }
+
+    .mainNav {
+        .menuClass {
+            ul.subUl1 {
+                position: absolute;
+                background: #111;
+                border: 1px solid #fff;
+                width: 300px;
+                top: -131px;
+                padding: 10px 19px;
+            }
+        }
+
+    }
+
+    .checkBoxi {
+        margin-left: 0px !important;
+        margin: 10px 0px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:500px) {
+    .col-11.m-auto.cards_s {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:350px) {}
